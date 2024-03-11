@@ -41,7 +41,7 @@ Put the camParams and oiluParams into the same folder.
 <table>
   <thead>
     <tr>
- <img src="https://github.com/OiluProject/OiluTag/assets/162829190/60f7452c-96ac-44d7-a009-44208d809b25" alt="Trulli" width="500" height="333">
+ <img src="https://github.com/OiluProject/OiluTag/assets/162829190/60f7452c-96ac-44d7-a009-44208d809b25" alt="Trulli" width="250" height="150">
        </tr>
   </thead>
   </table>
