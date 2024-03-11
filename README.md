@@ -38,15 +38,12 @@ Put the camParams and oiluParams into the same folder.
 
 # Data
 [Paper Data](https://drive.google.com/drive/folders/1jdIsJ2OG1XgT6t2f4uxCFlXdlKXQPa6q)
-<table>
-  <thead>
-    <tr>
- <img src="https://github.com/OiluProject/OiluTag/assets/162829190/60f7452c-96ac-44d7-a009-44208d809b25" alt="Trulli" width="250" height="150">
-       </tr>
-  </thead>
-  </table>
-       
+ 
 [Pose Demo 1](https://drive.google.com/file/d/1gz_tGgsR1FlNWoWTlC-yBbE8_ZTysYXZ/view?usp=drive_link)
+
+<a href="[http://www.google.com](https://drive.google.com/file/d/1gz_tGgsR1FlNWoWTlC-yBbE8_ZTysYXZ/view?usp=drive_link)" target="_blank">
+  <img width="220" height="250" border="0" align="center"  src="https://imagizer.imageshack.com/img923/6847/oVz6BM.gif"/>
+</a>
 
 [Pose Demo 2](https://drive.google.com/file/d/1yCTPqHLpkWQg8QUTKmpBaSZAKYN2iZVJ/view?usp=drive_link)
 
