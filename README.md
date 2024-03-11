@@ -1,17 +1,14 @@
 # Oilu
 A new ar marker proposing a new numerating system and a homogless(no homography) processing methods
 
-[Introduction Paper](https://publications.waset.org/10012229/oilu-tag-a-projective-invariant-fiducial-system)
-
 [Homogles Paper](#)
 
-Developed in the [Université Mohamed El Bachir El Ibrahimi](https://www.univ-bba.dz/)
+Developed in the [university Mohamed El Bachir El Ibrahimi of Bordj Bou Arreridj](https://www.univ-bba.dz/)
 
 Marker Website [oilucode.net](https://oilucode.net/)
 
 ### Contacts
 - Email : projectoilu@gmail.net 
-- Phone :  00213-111-11111111
 
 ### Research Team
 - [Mostefai Messaoud](https://scholar.google.com/citations?user=HthK96IAAAAJ&hl=en)
