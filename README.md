@@ -10,7 +10,7 @@ Developed in the [Université Mohamed El Bachir El Ibrahimi](https://www.univ-bb
 Marker Website [oilucode.net](https://oilucode.net/)
 
 ### Contacts
-- Email : hello@oilucode.net 
+- Email : projectoilu@gmail.net 
 - Phone :  00213-111-11111111
 
 ### Research Team
@@ -24,9 +24,8 @@ The provided binaries are compiled and tested under linux (fedora and ubuntu).
 Put the camParams and oiluParams into the same folder.
 
 # Table of contents
-1. [Introduction Paper](https://publications.waset.org/10012229/oilu-tag-a-projective-invariant-fiducial-system)
-2. [Homogles Paper](#)
-3. [Contacts](#contacts)
+1. [Homogles Paper](#)
+2. [Contacts](#contacts)
 4. [Research Team](#research-team)
 5. [Note](#note)
 6. [Data](#data)
