@@ -38,7 +38,8 @@ Put the camParams and oiluParams into the same folder.
 
 # Data
 [Paper Data](https://drive.google.com/drive/folders/1jdIsJ2OG1XgT6t2f4uxCFlXdlKXQPa6q)
- 
+ <a href="path/to/image.jpg" alt="Image description" target="_blank" style="display: inline-block; width: 50px; height; 50px; background-image: url('path/to/image.jpg');"></a>
+
 [Pose Demo 1](https://drive.google.com/file/d/1gz_tGgsR1FlNWoWTlC-yBbE8_ZTysYXZ/view?usp=drive_link)
 
 <a href="https://drive.google.com/file/d/1gz_tGgsR1FlNWoWTlC-yBbE8_ZTysYXZ/view?usp=drive_link" target="_blank">
