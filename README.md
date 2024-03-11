@@ -41,8 +41,8 @@ Put the camParams and oiluParams into the same folder.
  
 [Pose Demo 1](https://drive.google.com/file/d/1gz_tGgsR1FlNWoWTlC-yBbE8_ZTysYXZ/view?usp=drive_link)
 
-<a href="[http://www.google.com](https://drive.google.com/file/d/1gz_tGgsR1FlNWoWTlC-yBbE8_ZTysYXZ/view?usp=drive_link)" target="_blank">
-  <img width="220" height="250" border="0" align="center"  src="https://imagizer.imageshack.com/img923/6847/oVz6BM.gif"/>
+<a href="https://drive.google.com/file/d/1gz_tGgsR1FlNWoWTlC-yBbE8_ZTysYXZ/view?usp=drive_link" target="_blank">
+  <img width="220" height="220" border="0" align="center"  src="https://imagizer.imageshack.com/img923/6847/oVz6BM.gif"/>
 </a>
 
 [Pose Demo 2](https://drive.google.com/file/d/1yCTPqHLpkWQg8QUTKmpBaSZAKYN2iZVJ/view?usp=drive_link)
