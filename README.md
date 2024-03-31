@@ -26,15 +26,16 @@ Put the camParams and oiluParams into the same folder.
 4. [Research Team](#research-team)
 5. [Note](#note)
 6. [Data](#data)
-7. [Usage](#usage)
+7. [OiluApp] (#OILU android APP)
+8. [Usage](#usage)
    1. [Arguments](#arguments)
    2. [Parameters](#parameters)
       - [OiluParams](#oiluparams)
       - [CamParams](#camparams)
-8. [ImageOilu](#imageoilu)
-9. [ImagePose](#imagepose)
-10. [VideoPose](#videopose)
-11. [VideoOilu](#videooilu)
+9. [ImageOilu](#imageoilu)
+10. [ImagePose](#imagepose)
+11. [VideoPose](#videopose)
+12. [VideoOilu](#videooilu)
 
 # Data
 <p><span style="font-size:14"><a href="https://drive.google.com/drive/folders/1jdIsJ2OG1XgT6t2f4uxCFlXdlKXQPa6q">Paper Data</a></span></p>
@@ -51,8 +52,10 @@ Put the camParams and oiluParams into the same folder.
 
 <p><a href="https://drive.google.com/file/d/16lINGTzFQf1sGJ5Chtgkr5EB6gtLXXBR/view?usp=drivesdk"><span style="font-size:14">Oilu Occlusion Demo 2</span></a></p>
 <p><span style="font-size:14"><a href="https://drive.google.com/file/d/16lINGTzFQf1sGJ5Chtgkr5EB6gtLXXBR/view?usp=drivesdk"><img width="110" height="110" border="0" align="center" alt="" src="https://s12.gifyu.com/images/SVcMg.gif" /></a></span></p>
+
 # OILU android APP
 <p><a href="https://drive.google.com/file/d/1iOyTu1SimKzHVifROQttW1wpidwp-VgP/view?usp=drive_link"><span style="font-size:14"> Download </span></a></p>
+
 # Usage
 This section provide a short guide on using the provided binaries.
 ## Arguments
