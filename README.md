@@ -26,7 +26,7 @@ Put the camParams and oiluParams into the same folder.
 4. [Research Team](#research-team)
 5. [Note](#note)
 6. [Data](#data)
-7. [OiluApp] (#OILU android APP)
+7. [OILU android App] (#OILU-android-App)
 8. [Usage](#usage)
    1. [Arguments](#arguments)
    2. [Parameters](#parameters)
