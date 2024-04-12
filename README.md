@@ -14,7 +14,7 @@ Developed in the [university Mohamed El Bachir El Ibrahimi of Bordj Bou Arreridj
 - [Mostefai Messaoud](https://scholar.google.com/citations?user=HthK96IAAAAJ&hl=en)
 
 # DataSets 
-<p><span style="font-size:14"><a href="https://drive.google.com/drive/folders/1jdIsJ2OG1XgT6t2f4uxCFlXdlKXQPa6q">Paper Data</a></span></p>
+<p><span style="font-size:14">datasets are publicly available at : <a href="https://drive.google.com/drive/folders/1jdIsJ2OG1XgT6t2f4uxCFlXdlKXQPa6q">DataSets</a></span></p>
 
 # Note
 The provided binaries are compiled and tested under linux (fedora and ubuntu).
