@@ -1,10 +1,6 @@
 # Oilu
-A new ar marker proposing a new numerating system and a homogless(no homography) processing methods
-
-[OILU Symbolic patent](https://patentimages.storage.googleapis.com/a1/66/0c/b892451cb7797d/WO2022140708A1.pdf)
-
+A new fiducial marker based on a new numeration system and a homogless(no homography) processing methods
 Developed in the [university Mohamed El Bachir El Ibrahimi of Bordj Bou Arreridj](https://www.univ-bba.dz/)
-
 Marker Website [oilucode.net](https://oilucode.net/)
 
 ### Contacts
