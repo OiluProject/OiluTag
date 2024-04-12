@@ -3,7 +3,6 @@ A new fiducial marker based on a new numeration system and a homogless(no homogr
 
 Developed in the [university Mohamed El Bachir El Ibrahimi of Bordj Bou Arreridj](https://www.univ-bba.dz/)
 
-Marker Website [oilucode.net](https://oilucode.net/)
 
 ### Contacts
 - Email : projectoilu@gmail.com 
