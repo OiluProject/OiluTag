@@ -7,11 +7,6 @@ Developed in the [university Mohamed El Bachir El Ibrahimi of Bordj Bou Arreridj
 ### Contacts
 - Email : projectoilu@gmail.com 
 
-### Research Team
-- [Bengueddoudj Abdallah](https://scholar.google.com/citations?user=PxzaG5AAAAAJ&hl=fr)
-- [Belhadj Foudil](https://scholar.google.com/citations?user=GB1_-gEAAAAJ&hl=fr)
-- [Idir Yacine ](https://github.com/IDIRYACINE)
-- [Mostefai Messaoud](https://scholar.google.com/citations?user=HthK96IAAAAJ&hl=en)
 
 # DataSets 
 <p><span style="font-size:14">datasets are publicly available at : <a href="https://drive.google.com/drive/folders/1jdIsJ2OG1XgT6t2f4uxCFlXdlKXQPa6q">DataSets</a></span></p>
@@ -23,20 +18,19 @@ Put the camParams and oiluParams into the same folder.
 # Table of contents
 1. [Homogles Paper](#)
 2. [Contacts](#contacts)
-4. [Research Team](#research-team)
-5. [Note](#note)
-6. [DataSets](#DataSets)
-7. [OILU android App](#OILU-android-App)
-8. [OILU Videos](#OILU-Videos)
-9. [Usage](#usage)
+3. [Note](#note)
+4. [DataSets](#DataSets)
+5. [OILU android App](#OILU-android-App)
+6. [OILU Videos](#OILU-Videos)
+7. [Usage](#usage)
    1. [Arguments](#arguments)
    2. [Parameters](#parameters)
       - [OiluParams](#oiluparams)
       - [CamParams](#camparams)
-10. [ImageOilu](#imageoilu)
-11. [ImagePose](#imagepose)
-12. [VideoPose](#videopose)
-13. [VideoOilu](#videooilu)
+8. [ImageOilu](#imageoilu)
+9. [ImagePose](#imagepose)
+10. [VideoPose](#videopose)
+11. [VideoOilu](#videooilu)
 
 # Data
 <p><span style="font-size:14"><a href="https://drive.google.com/drive/folders/1jdIsJ2OG1XgT6t2f4uxCFlXdlKXQPa6q">Paper Data</a></span></p>
