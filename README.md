@@ -31,6 +31,8 @@ Put the camParams and oiluParams into the same folder.
 9. [ImagePose](#imagepose)
 10. [VideoPose](#videopose)
 11. [VideoOilu](#videooilu)
+12. [Generator](#Generator)
+13. [References](#References)
 
 # Data
 <p><span style="font-size:14"><a href="https://drive.google.com/drive/folders/1jdIsJ2OG1XgT6t2f4uxCFlXdlKXQPa6q">Paper Data</a></span></p>
@@ -223,3 +225,7 @@ Usage: OMP_NUM_THREADS=n ./Generator <outDir> <targetNUmber>
 Example: OMP_NUM_THREADS=2 ./Generator /home/path/to/out 999
 This would generate oilu codes from 0 to 999
 ```
+## References 
+<p><a href="https://drive.google.com/file/d/1SYoUx8CY2hjy3TpQYjiojjwlP3L--iQb/view?usp=sharing"><span style="font-size:14">New Efficient Visual OILU Markers</span></a></p>
+
+ 2021 World Congress in Computer Science, Computer Engineering, Applied Computing (CSCE‘21)
