@@ -227,5 +227,4 @@ This would generate oilu codes from 0 to 999
 ```
 ## References 
 <p><a href="https://drive.google.com/file/d/1SYoUx8CY2hjy3TpQYjiojjwlP3L--iQb/view?usp=sharing"><span style="font-size:14">New Efficient Visual OILU Markers</span></a></p>
-
- 2021 World Congress in Computer Science, Computer Engineering, Applied Computing (CSCE‘21)
+The 25th International Conference on Image Processing,Computer Vision, & Pattern Recognition(IPCV 2021).
