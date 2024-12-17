@@ -226,5 +226,5 @@ Example: OMP_NUM_THREADS=2 ./Generator /home/path/to/out 999
 This would generate oilu codes from 0 to 999
 ```
 ## References 
- <p><a href="https://drive.google.com/file/d/1SYoUx8CY2hjy3TpQYjiojjwlP3L--iQb/view?usp=sharing"><span style="font-size:14">New Efficient Visual OILU Markers</span></a> The 25th International Conference on Image Processing,Computer Vision, & Pattern Recognition(IPCV 2021)  </p>
+ <p><span style="font-size:14">New Efficient Visual OILU Markers</span></a> The 25th International Conference on Image Processing,Computer Vision, & Pattern Recognition(IPCV 2021)  </p>
 <a href="https://drive.google.com/file/d/1kg2H2Qp0kwZyxkbN-PuRnF2Nj469kUOt/view?usp=sharing"><span style="font-size:14">CSCI 2021 BOOK of ABSTRACTS</span></a>
